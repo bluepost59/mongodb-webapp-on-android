@@ -11,3 +11,11 @@ https://github.com/CypherpunkArmory/UserLAnd/
 ```
 apt update && apt install mongodb python3 python3-pip git
 ```
+
+# Start MongoDB Service
+
+Excecute mongod command **with dbpath option**.
+
+```
+mongod -dbpath /home/${user}/db
+```
