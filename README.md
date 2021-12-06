@@ -7,7 +7,5 @@ web app with MongoDB on UserLAnd.
 2. apt install
 
 ```
-apt update && apt install mongodb python3 python3-pip
-
-
+apt update && apt install mongodb python3 python3-pip git
 ```
